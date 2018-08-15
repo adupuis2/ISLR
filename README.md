@@ -1,1 +1,2 @@
 # ISLR
+This is intended as a personal dumping ground for work produced while reading and following the book [Introduction to Statistical Learning with applications in R](http://statlearning.com) (*ISLR*).
