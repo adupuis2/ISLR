@@ -6,5 +6,5 @@ This is intended as a personal dumping ground for work produced while reading an
 
 Glossary
 --------
-[Top](#islr)
+[Top](#islr)  
 A glossary of the more technical terms and phrases in ISLR.
