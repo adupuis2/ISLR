@@ -4,7 +4,7 @@ Let *y* be the estimated function of **Y**.
 Let *y*<sub>i</sub> = B<sub>0</sub> + B<sub>1</sub>*x*<sub>i</sub> be the prediction for **Y** based on the *i*th value of **X**.  
 Then *e*<sub>i</sub> = (**Y**<sub>i</sub> - *y*<sub>i</sub>) − the difference between the actual **Y** value for x<sub>i</sub> and the predicted value at x<sub>i</sub>  
 This error margin, or *residual*, for the *i*th sample is useful for determining the accuracy of a model.  
-By taking the *residual* of all predictions where the associated sample value is available, it is possible to determine a number that roughly represents overall accuracy.
+By summing the *residual* of all predictions where the associated sample value is available, it is possible to derive a number that roughly represents overall accuracy. In simpler terms: it is the combined error margin for all x<sub>i</sub> and the smaller you can get it, the more accurate the model is overall.
 
 This is called the **Residual Sum of Squares (RSS)**.
 
