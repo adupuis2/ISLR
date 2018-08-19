@@ -18,3 +18,5 @@ By utilizing this *least squares* approach, we are able to choose  B<sub>0</sub>
 B<sub>0</sub> = mean(y) - B<sub>1</sub>mean(x)
    = (the mean of y) minus (B<sub>1</sub> times the mean of x)
 </pre>
+
+This is the *least squares coefficient estimates*.
