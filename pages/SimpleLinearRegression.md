@@ -8,6 +8,6 @@ By taking the *residual* of all predictions where the associated sample value is
 
 This is called the **Residual Sum of Squares (RSS)**.
 
-**RSS** = (*e*<sub>1</sub>)^2 + (*e*<sub>2</sub>)^2 + (*e*<sub>3</sub>)^2 + ... + (*e*<sub>n</sub>)^2
+**RSS** = (*e*<sub>1</sub>)<sup>2</sup> + (*e*<sub>2</sub>)<sup>2</sup> + (*e*<sub>3</sub>)<sup>2</sup> + ... + (*e*<sub>n</sub>)<sup>2</sup>
 
 By utilizing this *least squares* approach, we are able to choose  B<sub>0</sub> and B<sub>1</sub> to minimize **RSS**.
