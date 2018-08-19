@@ -13,8 +13,8 @@ This is called the **Residual Sum of Squares (RSS)**.
 By utilizing this *least squares* approach, we are able to choose  B<sub>0</sub> and B<sub>1</sub> to minimize **RSS**. The *minimizers* are...
 
 <pre>B<sub>1</sub> = sum([x<sub>i</sub> - mean(x)][y<sub>i</sub> - mean(y)])
-    = the sum of (x residuals times y residuals)
+   = the sum of (x residuals times y residuals)
     
 B<sub>0</sub> = mean(y) - B<sub>1</sub>mean(x)
-    = (the mean of y) minus (B<sub>1</sub> times the mean of x)
+   = (the mean of y) minus (B<sub>1</sub> times the mean of x)
 </pre>
